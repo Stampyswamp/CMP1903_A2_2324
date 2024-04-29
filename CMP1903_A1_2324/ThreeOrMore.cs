@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CMP1903_A1_2324
 {
-    internal class ThreeOrMore
+    internal class ThreeOrMore : Game
     {
         //Declare Object + var.
         private static Random rnd = new Random();
