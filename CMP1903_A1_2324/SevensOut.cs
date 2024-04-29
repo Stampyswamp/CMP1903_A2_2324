@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CMP1903_A1_2324
 {
-    internal class SevensOut
+    internal class SevensOut : Game
     {
         private static Die dieroll = new Die();
 
